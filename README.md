@@ -1,4 +1,4 @@
-# recibo
+# Recibo
 ### Sistema de recibo simples, a pedido de um estabelecimento de inforamática.
 
 &nbsp;Esse é um sistema bem simples mesmo, feito em php. Como diz no título acima, feito a padido de um estabelecimento de informática
@@ -15,6 +15,13 @@ os empresários começaram a cobrar comprovante do estbalecimento. Para a realiz
 
 ## Screen Caputure:
 
+<div>
+  <img src='screencapture/screencapture.png' />
+</div>
 
+
+# Tutorial de instalação
+
+&nbsp; Como já foi dito anteriormente, é sistema simples. Então para instalar é muito fácil, você precisa somente baixar qualquer tipo de server php e instalar. Exp.: XAMPP,WAMPSERVER, esse dois são os mais conhecidos. Depois de instalado, é só baixar os arquivos aqui do repositório, criar uma pasta(Aqui vou chamar de recibo), e mover para dentro da pasta "htdocs" caso XAMPP, ou a pasta "www" caso WAMPSERVER. Com isso finalizado só abrir o navegador e digitar "localhost/recibo", recibo aqui foi a pasta movida. Pronto, só desfrutar.  
 
 
